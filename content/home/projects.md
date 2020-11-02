@@ -25,13 +25,13 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   [[content.filter_button]]
-     name = "Psychology"
-     tag = "Psychology"
+   # [[content.filter_button]]
+   #  name = "Psychology"
+   #  tag = "Psychology"
   
    [[content.filter_button]]
-     name = "Web"
-     tag = "Web"
+     name = "Website"
+     tag = "Website"
 
   [[content.filter_button]]
      name = "Software"

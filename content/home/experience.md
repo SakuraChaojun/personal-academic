@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-    title = "CEO"
-    company = "GenCoin"
+    title = "Website Manager"
+    company = "Yiguang Media Ltd."
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
    date_start = "2017-01-01"
    # date_start = "2018-12"
    # date_end = "2019-11"
-   date_end = ""
+   date_end = "2019-11-02"
    description = """
    Responsibilities include:
 

@@ -21,10 +21,10 @@ subtitle = ""
   description = "Python, R, Matlab, C"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "Psychological Statistics, Neural Data Science, Statistical Learning"  
+  name = "Measurement"
+  description = "Neural Data Science, Statistical Learning"  
   
 [[feature]]
   icon = "desktop"

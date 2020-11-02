@@ -19,25 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-   title = "CEO"
-   company = "GenCoin"
-   # title = "Website Manager"
-   # company = "Yiguang Media Ltd"
+   # title = "CEO"
+   # company = "GenCoin"
+    title = "Website Manager"
+    company = "Yiguang Media Ltd"
    company_url = ""
-   location = "California"
-   date_start = "2017-01-01"
-   date_end = ""
+   # location = "California"
+   location = "Halifax"
+   # date_start = "2017-01-01"
+   date_start = "2018-12"
+   date_end = "2019-11"
+   # date_end = ""
    description = """
-   Responsibilities include:
-
-   * Analysing
-   * Modelling
-   * Deploying
+   Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs.
    """
-   # location = "Halifax"
-   # date_start = "2018-12"
-   # date_end = "2019-11"
-   # description = ""Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs.""
+    
+ 
+   
 
 
 

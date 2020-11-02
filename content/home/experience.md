@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Halifax"
   date_start = "2018-12"
   date_end = "2019-11"
-  description = ""Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs.""
+  description = "Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs."
 
 
 +++

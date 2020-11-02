@@ -31,9 +31,12 @@ date_format = "Jan 2006"
    date_end = "2019-11"
    # date_end = ""
    description = """
-   Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs.
+   Responsibilities include:
+
+   * Analysing
+   * Modelling
+   * Deploying
    """
-    
  
    
 

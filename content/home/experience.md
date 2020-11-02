@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-    title = "Website Manager"
-    company = "Yiguang Media Ltd."
+    title = "Yiguang Media Ltd."
+    company = "<font color = 'blue'>Website Manager</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = ""
    # location = "California"
-   location = "Halifax,Canada"
+   location = "Halifax, Canada"
    date_start = "2017-01-01"
    # date_start = "2018-12"
    # date_end = "2019-11"

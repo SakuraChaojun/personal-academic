@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Website Manager"
   company = "Yiguang Media Ltd"
@@ -24,7 +25,7 @@ date_format = "Jan 2006"
   location = "Halifax"
   date_start = "2018-12"
   date_end = "2019-11"
-  description = "Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs."
+  description = ""
 
 
 +++

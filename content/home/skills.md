@@ -17,20 +17,39 @@ subtitle = ""
 [[feature]]
   icon = "flask"
   icon_pack = "fas"
-  name = "Scientific Programming"
-  description = "Python,R,Matlab"
+  name = "Programming"
+  description = "Python, R, Matlab, C"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Psychological Statistics Methods,Neural Data science,Statistical Learning"  
+  description = "Psychological Statistics, Neural Data Science, Statistical Learning"  
   
 [[feature]]
   icon = "desktop"
   icon_pack = "fas"
   name = "Front-end Design"
-  description = "HTML,CSS,JavaScript,User Interface Design"
+  description = "HTML, CSS, JavaScript, UI Design"
+  
+ [[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Mobile Application"
+  description = "Android App Development, Java"
+  
+ [[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Jupyter, Git, R-Markdown, PsychoPy"
+  
+ [[feature]]
+  icon = "photo-video"
+  icon_pack = "fas"
+  name = "Multimedia"
+  description = "Photoshop, DaVinci Resolve, InDesign"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]

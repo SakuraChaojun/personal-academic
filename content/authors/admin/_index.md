@@ -50,6 +50,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: blogger
+  icon_pack: fab
+  link: https://www.arthink.ca
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

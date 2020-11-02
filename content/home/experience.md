@@ -27,5 +27,13 @@ date_format = "Jan 2006"
   date_end = "2019-11"
   description = ""
 
+[[experience]]
+  title = "Website Manager"
+  company = "Yiguang Media Ltd"
+  company_url = ""
+  location = "Halifax"
+  date_start = "2018-12"
+  date_end = "2019-11"
+  description = ""
 
 +++

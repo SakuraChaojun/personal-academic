@@ -38,22 +38,22 @@ date_format = "Jan 2006"
    """
  
    [[experience]]
-    title = "Yiguang Media Ltd."
-    company = "<font color = '#2962FF'>Website Manager</font>"
+    title = "Prox Tech Ltd."
+    company = "<font color = '#2962FF'>Information Technology Consultant</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
-   company_url = ""
+   company_url = "https://www.proxtech.ca"
    # location = "California"
    location = "Halifax, Canada"
-   date_start = "2018-12-01"
+   date_start = "2019-11-01"
    # date_start = "2018-12"
    # date_end = "2019-11"
-   date_end = "2019-11-02"
+   date_end = "present"
    description = """
    
 
-   * Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs
-   * Summarized the management experiences and made a forward-looking plan concerning the development of the company
+   * Visualized commercial data, designed front-end and participated in the company management
+   * Achieved 100% client satisfaction (including Educational service, Mental Health Counselling Services and NPO).
    """
 
 

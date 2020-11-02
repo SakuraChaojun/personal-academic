@@ -53,7 +53,12 @@ social:
 - icon: blogger
   icon_pack: fab
   link: https://www.arthink.ca
-
+  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/chaojun-m-034316126/
+  
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

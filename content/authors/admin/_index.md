@@ -8,10 +8,10 @@ superuser: true
 # Role/position
 role: Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name:Dalhousie University
- url: https://www.stanford.edu/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Statistical methods and Research design.

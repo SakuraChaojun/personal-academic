@@ -48,7 +48,7 @@ date_format = "Jan 2006"
    date_start = "2019-11-01"
    # date_start = "2018-12"
    # date_end = "2019-11"
-   date_end = "present"
+   date_end = ""
    description = """
    
 

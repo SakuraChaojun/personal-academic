@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
     title = "Yiguang Media Ltd."
-    company = "<font color = '#CC0033'>Website Manager</font>"
+    company = "<font color = '#2962FF'>Website Manager</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = ""
@@ -37,7 +37,24 @@ date_format = "Jan 2006"
    * Summarized the management experiences and made a forward-looking plan concerning the development of the company
    """
  
+   [[experience]]
+    title = "Yiguang Media Ltd."
+    company = "<font color = '#2962FF'>Website Manager</font>"
+   # title = "Website Manager"
+   # company = "Yiguang Media Ltd"
+   company_url = ""
+   # location = "California"
+   location = "Halifax, Canada"
+   date_start = "2018-12-01"
+   # date_start = "2018-12"
+   # date_end = "2019-11"
+   date_end = "2019-11-02"
+   description = """
    
+
+   * Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs
+   * Summarized the management experiences and made a forward-looking plan concerning the development of the company
+   """
 
 
 

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
     title = "Yiguang Media Ltd."
-    company = "<font color = '#2962FF'>Website Manager</font>"
+    company = "<font color = '#3F51B5'>Website Manager</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = ""
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
  
    [[experience]]
     title = "Prox Tech Ltd."
-    company = "<font color = '#2962FF'>Information Technology Consultant</font>"
+    company = "<font color = '#3F51B5'>Information Technology Consultant</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = "https://www.proxtech.ca"

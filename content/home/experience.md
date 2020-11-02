@@ -25,15 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-12"
   date_end = "2019-11"
   description = ""Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs.""
- 
 
-#[[experience]]
- # title = "Professor"
- # company = "University X"
- # company_url = ""
- # location = "California"
- # date_start = "2016-01-01"
- # date_end = "2016-12-31"
- # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

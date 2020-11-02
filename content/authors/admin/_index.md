@@ -11,7 +11,7 @@ role: Student
 # Organizations/Affiliations
 organizations:
 - name:Dalhousie University
- url: https://www.dal.ca
+ url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Statistical methods and Research design.

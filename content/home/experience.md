@@ -25,17 +25,16 @@ date_format = "Jan 2006"
    # company = "Yiguang Media Ltd"
    company_url = ""
    # location = "California"
-   location = "Halifax"
+   location = "Halifax,Canada"
    date_start = "2017-01-01"
    # date_start = "2018-12"
    # date_end = "2019-11"
    date_end = "2019-11-02"
    description = """
-   Responsibilities include:
+   
 
-   * Analysing
-   * Modelling
-   * Deploying
+   * Managed the company, made decisions when meeting controversial problems, supervised the implementation of designs
+   * Summarized the management experiences and made a forward-looking plan concerning the development of the company
    """
  
    

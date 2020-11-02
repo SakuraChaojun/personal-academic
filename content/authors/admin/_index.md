@@ -18,12 +18,12 @@ bio: My research interests include Statistical methods and Research design.
 
 interests:
 - Educational Psychology
-- Research Methodology
-- Data Visualization
+- Educational Assessment
+- Visualization Education
 
 education:
   courses:
-  - course: BSc in Psychology and Computer Science 
+  - course: BSc in Psychology and Computer Sci
     institution: Dalhousie University
     year: 2021
 

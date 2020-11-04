@@ -35,7 +35,7 @@ subtitle = ""
  [[feature]]
   icon = "android"
   icon_pack = "fab"
-  name = "Mobile Application"
+  name = "Mobile Development"
   description = "Android App Development, Java"
   
  [[feature]]

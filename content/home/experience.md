@@ -37,6 +37,25 @@ date_format = "Jan 2006"
    * Summarized the management experiences and made a forward-looking plan concerning the development of the company
    """
  
+  [[experience]]
+    title = "Bright Sun Counselling Services Inc."
+    company = "<font color = '#3F51B5'>Research Assistant</font>"
+   # title = "Website Manager"
+   # company = "Yiguang Media Ltd"
+   company_url = "https://www.cpca-rpc.ca/Bright%20Sun%20Counselling%20Services%20Inc~~ "
+   # location = "California"
+   location = "Halifax, Canada"
+   date_start = "2019-01-01"
+   # date_start = "2018-12"
+   # date_end = "2019-11"
+   date_end = "2020-03-05"
+   description = """
+   
+   * Collected and analyzed data using proposed solutions, such as the ideas of translating the recording via IBM Cloud conversion, and nodal analysis by NVivo
+   * Drafted a research management system to facilitate the inspection of work processes.
+   """
+   
+   
    [[experience]]
     title = "Prox Tech Ltd."
     company = "<font color = '#3F51B5'>Information Technology Consultant</font>"
@@ -50,6 +69,7 @@ date_format = "Jan 2006"
    # date_end = "2019-11"
    date_end = ""
    description = """
+   
    
 
    * Visualized commercial data, designed front-end and participated in the company management

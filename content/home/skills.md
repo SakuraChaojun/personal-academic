@@ -42,7 +42,7 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Jupyter, Git, R-Markdown, PsychoPy"
+  description = "Jupyter, NVivo, Git, R-Markdown, PsychoPy"
   
  [[feature]]
   icon = "photo-video"

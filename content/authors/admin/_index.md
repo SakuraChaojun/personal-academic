@@ -53,7 +53,7 @@ social:
    
 - icon: blogger
   icon_pack: fab
-  link: https://www.arthink.ca
+  link: https://arthink.ca
   
 - icon: linkedin
   icon_pack: fab

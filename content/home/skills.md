@@ -15,15 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "flask"
+  icon = "code"
   icon_pack = "fas"
   name = "Programming"
   description = "Python, R, Matlab, C"
   
 [[feature]]
-  icon = "brain"
+  icon = "atom"
   icon_pack = "fas"
-  name = "Measurement"
+  name = "Data Science"
   description = "Neural Data Science, Statistical Learning"  
   
 [[feature]]

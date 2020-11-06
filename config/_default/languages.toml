@@ -11,6 +11,10 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
+  
+[ja]
+  languageCode = "ja"
+  contentDir = "content/ja"
  # title = "Chinese website title..."
  #[zh.params]
  # description = "Site description in Chinese..."

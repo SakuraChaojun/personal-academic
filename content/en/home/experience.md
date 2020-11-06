@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
     title = "Yiguang Media Ltd."
-    company = "<font color = '#3F51B5'>Website Manager</font>"
+    company = "<font color = '#003366'>Website Manager</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = ""
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
  
   [[experience]]
     title = "Bright Sun Counselling Services Inc."
-    company = "<font color = '#3F51B5'>Research Assistant</font>"
+    company = "<font color = '#003366'>Research Assistant</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = "https://www.cpca-rpc.ca/Bright%20Sun%20Counselling%20Services%20Inc~~ "
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
    
    [[experience]]
     title = "Prox Tech Ltd."
-    company = "<font color = '#3F51B5'>Information Technology Consultant</font>"
+    company = "<font color = '#003366'>Information Technology Consultant</font>"
    # title = "Website Manager"
    # company = "Yiguang Media Ltd"
    company_url = "https://www.proxtech.ca"

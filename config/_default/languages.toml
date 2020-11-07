@@ -67,7 +67,7 @@
    
   [[ja.menu.main]]
    name = "経験"
-   url = "#skills"
+   url = "#experience"
    weight = 20
    
   [[ja.menu.main]]

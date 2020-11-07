@@ -52,7 +52,7 @@
 [ja]
   languageCode = "ja"
   contentDir = "content/ja"
-  title = "馬超君（マ-チャオジュン）"
+  title = "馬超君（マー・チャオジュン）"
  [ja.params]
   description = "Site description in Chinese..."
   [[ja.menu.main]]

@@ -14,7 +14,7 @@ organizations:
   url: https://www.dal.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical methods and Research design.
+bio: My research interests include Educational Psychology Educational Assessment
 
 interests:
 - Educational Psychology
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Chaojun Ma is a Student at Dalhousie University. His research interests include Statistical methods and Research design. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello, I am Chaojun Ma, an undergraduate student and growing data scientist. I am particular interested in educational psychology and Educational Assessment.  In my opinion a good way of educating should not only guide people to claim from the community, but also devote to it. In order to achieve this goal, we need to consider new ways of education. Now, the wave of artificial intelligence is here, in simple terms, for traditionally education, we need a teacher to monitor student work and evaluate them. While Al is learning from data

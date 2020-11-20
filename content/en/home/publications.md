@@ -23,8 +23,8 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-   # Filter posts by a taxonomy term.
-   # [content.filters]
+# Filter posts by a taxonomy term.
+# [content.filters]
    #  tag = ""
    # category = ""
    # publication_type = ""
@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+# Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}

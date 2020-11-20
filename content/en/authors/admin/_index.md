@@ -74,5 +74,6 @@ user_groups:
 ---
 
 <p style = 'text-align:justify'> Hello, I am Chaojun Ma, an undergraduate student and growing data scientist. I am particular interested in Educational Psychology and Educational Assessment.   In my opinion a good way of educating should not only guide people to claim from the community, but also devote to it. In order to achieve this goal, we need   to consider new ways of education. In simple terms, for traditionally education, we need a teacher to monitor students work and evaluate them. However, due to limited resources, it is impossible to meet every student's needs. While AI gives us new insights about personalized learning and teaching method. </p>
+
 ---
 What I am doing now ?

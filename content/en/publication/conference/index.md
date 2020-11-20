@@ -7,7 +7,7 @@ authors = ["Zheyi Shangguan", "Yuchang Zhang","Chaojun Ma"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
-# 1 = Conference paper
+# 1 = Conference 
 # 2 = Journal article
 # 3 = Preprint / Working Paper
 # 4 = Report
@@ -15,14 +15,16 @@ authors = ["Zheyi Shangguan", "Yuchang Zhang","Chaojun Ma"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Education and Psychological Sciences*"
+publication = "Presentation Only, No PublicationIn: International Conference on Education and Psychological Sciences*"
 publication_short = "In *ICEPS*"
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+#abstract = "The study uses ancient English words with or without the syllable rules (e.g. “layser” can be considered as an ancient English word follows the syllable rules, and “byynge” does not) to establish whether words syllable influence short-term memory performance. By using ancient English words, the false data caused by early memorizing can be avoid. The hypothesis was that the word follows the syllable rules and is relatively short in length will make the participants more likely to consider the word as familiar. There are three participants involved in this study. PsychoPy was used to collect successful recognition rate for data analysis via manipulating words syllable and lengths. The experiment uses within-group design and can be divided into four groups according to the consistency in syllable rules and word length. The results suggest that words with regular syllable rules have slightly higher recognition rate, but the difference did not reach significant levels, which indicates that the successful recognition rate not critically depends on the syllable rules. Under this circumstance, shorter words length can bring positive effect on successfully recognition. In the future, it is worth exploring whether the same pattern will be observed in other languages.
+
+Keywords: memory, performance, syllable."
 
 # Summary. An optional shortened abstract.
 summary = "2021 8th International Conference on Education and Psychological Sciences (ICEPS 2021), Fukuoka, Japan"

@@ -53,7 +53,7 @@ social:
    
 - icon: blogger
   icon_pack: fab
-  link: https://arthink.ca
+  link: https://sakurachaojun.github.io/PSYO3505/intro.html
   
 - icon: linkedin
   icon_pack: fab

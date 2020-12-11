@@ -19,8 +19,7 @@ bio: My research interests include Educational Psychology Educational Assessment
 interests:
 - Educational Psychology
 - Educational Assessment
-- Educational Data Mining
-- Visualization Education
+- Interactive data Visualizations 
 
 education:
   courses:

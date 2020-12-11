@@ -19,8 +19,7 @@ bio: My research interests include Statistical methods and Research design.
 interests:
 - Educational Psychology
 - Educational Assessment
-- Educational Data Mining
-- Visualization Education
+- Interactive Data Visualizations
 
 education:
   courses:

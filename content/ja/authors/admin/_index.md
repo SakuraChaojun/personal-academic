@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Chaojun Ma is a Student at Dalhousie University. His research interests include Statistical methods and Research design. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+こんにちは、私は学部生であり、成長を続けるデータサイエンティストであるChaojunMaです。私は特に教育心理学に興味があります。私の意見では、教育の良い方法は、人々がコミュニティから主張するように導くだけでなく、それに専念するべきです。この目標を達成するために、私たちは新しい教育方法を検討する必要があります。ほとんどの場合、生徒の作業を監視して評価する教師が必要です。しかし、リソースが限られているため、すべての学生のニーズを満たすことは不可能です。同時に、AIは、パーソナライズされた学習と教授法に関する新しい洞察を提供してくれます。ディープラーニングを使用して学生の学習を最適化することを検討できます。

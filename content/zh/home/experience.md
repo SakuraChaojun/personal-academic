@@ -73,7 +73,7 @@ date_format = "Jan 2006"
    
 
    * Visualized commercial data, designed front-end and participated in the company management
-   * Achieved 100% client satisfaction (including Educational service, Mental Health Counselling Services and NPO).
+ 
    """
 
 
